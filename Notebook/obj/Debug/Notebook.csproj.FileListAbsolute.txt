@@ -1,0 +1,15 @@
+C:\Users\Silch\Education\RaidBosses\Notebook\bin\Debug\Notebook.exe.config
+C:\Users\Silch\Education\RaidBosses\Notebook\bin\Debug\Notebook.exe
+C:\Users\Silch\Education\RaidBosses\Notebook\bin\Debug\Notebook.pdb
+C:\Users\Silch\Education\RaidBosses\Notebook\obj\Debug\Notebook.csproj.AssemblyReference.cache
+C:\Users\Silch\Education\RaidBosses\Notebook\obj\Debug\Notebook.csproj.SuggestedBindingRedirects.cache
+C:\Users\Silch\Education\RaidBosses\Notebook\obj\Debug\Notebook.csproj.CoreCompileInputs.cache
+C:\Users\Silch\Education\RaidBosses\Notebook\obj\Debug\Notebook.exe
+C:\Users\Silch\Education\RaidBosses\Notebook\obj\Debug\Notebook.pdb
+D:\Allexx\study\С#\RaidBosses\Notebook\bin\Debug\Notebook.exe.config
+D:\Allexx\study\С#\RaidBosses\Notebook\bin\Debug\Notebook.exe
+D:\Allexx\study\С#\RaidBosses\Notebook\bin\Debug\Notebook.pdb
+D:\Allexx\study\С#\RaidBosses\Notebook\obj\Debug\Notebook.csproj.AssemblyReference.cache
+D:\Allexx\study\С#\RaidBosses\Notebook\obj\Debug\Notebook.csproj.CoreCompileInputs.cache
+D:\Allexx\study\С#\RaidBosses\Notebook\obj\Debug\Notebook.exe
+D:\Allexx\study\С#\RaidBosses\Notebook\obj\Debug\Notebook.pdb
